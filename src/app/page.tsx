@@ -67,7 +67,7 @@ export default function LandingPage() {
           href: "#about",
         },
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=ug3vif"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=ug3vif&_wi=1"
     />
   </div>
 
@@ -79,7 +79,7 @@ export default function LandingPage() {
       description="At Sportify, we bridge the gap between amateur passion and professional performance. We curate the best gear to help you crush your limits."
       subdescription="Every product in our shop is tested by pros, ensuring quality and durability."
       icon={Zap}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=91hh17"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=91hh17&_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -95,7 +95,7 @@ export default function LandingPage() {
           id: "p1",
           name: "Pro Running Shoes",
           price: "$129.99",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=pkfbtt",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=pkfbtt&_wi=1",
         },
         {
           id: "p2",
@@ -141,19 +141,19 @@ export default function LandingPage() {
         {
           title: "Expert Vetting",
           description: "Every item is hand-picked by professional coaches.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=ug3vif",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=ug3vif&_wi=2",
           imageAlt: "professional athlete sprinting track",
         },
         {
           title: "Fast Shipping",
           description: "Get your gear to the field in record time.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=91hh17",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=91hh17&_wi=2",
           imageAlt: "professional athlete sprinting track",
         },
         {
           title: "24/7 Support",
           description: "Our team is here to help you train better.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=pkfbtt",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=pkfbtt&_wi=2",
           imageAlt: "professional athlete sprinting track",
         },
       ]}
